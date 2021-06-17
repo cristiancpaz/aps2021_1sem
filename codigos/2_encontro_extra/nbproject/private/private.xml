@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/iapereira/NetBeansProjects/JavaApplication15/src/apresentacao/Main.java</file>
+            <file>file:/home/iapereira/NetBeansProjects/JavaApplication15/src/negocio/Carro.java</file>
+            <file>file:/home/iapereira/NetBeansProjects/JavaApplication15/src/negocio/Veiculo.java</file>
+            <file>file:/home/iapereira/NetBeansProjects/JavaApplication15/src/negocio/EstrategiaDeCalculo.java</file>
+            <file>file:/home/iapereira/NetBeansProjects/JavaApplication15/src/negocio/IPVACarroDeLocadora.java</file>
+            <file>file:/home/iapereira/NetBeansProjects/JavaApplication15/src/negocio/IPVACarroDePasseio.java</file>
+        </group>
+    </open-files>
+</project-private>
